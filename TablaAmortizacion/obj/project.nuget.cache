@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0PJ9lE5OgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diomedes\\Desktop\\lenguaje-programacion-II\\TablaAmortizacion\\TablaAmortizacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diomedes\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\Diomedes\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
